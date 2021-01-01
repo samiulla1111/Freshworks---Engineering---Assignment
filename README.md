@@ -17,3 +17,6 @@ I made this project using java
 used multithreading concept to delete the object after time out.
 you can see the objects in employee.json file
 so, I store all the json objects in an array so that it will be very easy add,delete,read the objects and I used hashmap to reduce the time complexity over here.
+
+![console-2](https://user-images.githubusercontent.com/44118231/103435202-7a116180-4c31-11eb-9bf8-82ed73e830bd.png)
+![console-1](https://user-images.githubusercontent.com/44118231/103435204-7ed61580-4c31-11eb-8be8-a33ab2a30090.png)
