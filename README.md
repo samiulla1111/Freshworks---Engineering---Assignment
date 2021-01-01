@@ -12,3 +12,8 @@ Every key supports setting a Time-To-Live property when it is created. This prop
 Appropriate error responses must always be returned to a client if it uses the data store in unexpected ways or breaches any limits
 The file size never exceeds 1GB
 The file is accessed by multi-threading
+
+I made this project using java
+used multithreading concept to delete the object after time out.
+you can see the objects in employee.json file
+so, I store all the json objects in an array so that it will be very easy add,delete,read the objects.
