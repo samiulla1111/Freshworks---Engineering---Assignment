@@ -16,4 +16,4 @@ The file is accessed by multi-threading
 I made this project using java
 used multithreading concept to delete the object after time out.
 you can see the objects in employee.json file
-so, I store all the json objects in an array so that it will be very easy add,delete,read the objects.
+so, I store all the json objects in an array so that it will be very easy add,delete,read the objects and I used hashmap to reduce the time complexity over here.
